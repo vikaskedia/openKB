@@ -11,3 +11,4 @@ data/export.zip
 jsconfig.json
 .idea/
 locales/*.tmp
+*.log
